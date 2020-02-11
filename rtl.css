@@ -1,0 +1,56 @@
+body{
+
+	text-align: right;
+	direction: rtl;
+}
+
+.block-head, blockquote{
+	border-left:1px solid #eee;
+	border-right: 5px solid #9b870c;
+}
+
+ blockquote{
+	border-left:0;
+	border-right: 5px solid #9b870c;
+}
+
+.ml-auto{
+    margin-left: 0!important;
+    margin-right: auto!important;
+}
+
+.nav{
+	padding-right: 0;
+}
+
+.post-edit-link{
+	right: auto;
+    left: 25px;
+}
+
+
+
+.recent-post .recent-post-info {
+    padding-right: 0!important;
+}
+
+.comments-list .comment .reply {
+    right: auto;
+    left: 20px;
+    }
+ .navbar-brand{
+	 margin-left: 1rem;
+	 margin-right: 0
+ }
+
+ .post-page .next{
+	 float: left;
+ }
+
+ .post-page .next i,  .post-page .prev i, .nav-links .next i,  .nav-links .prev i{
+	 transform: rotate(180deg);
+ }
+
+ #emailHelp{
+	 display: none!important;
+ }

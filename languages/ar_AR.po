@@ -1,0 +1,146 @@
+# Copyright (C) 2020 Kthiri Seif Eddine
+# This file is distributed under the GNU General Public License v2 or later.
+
+"Project-Id-Version: One Step 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/onestep\n"
+"POT-Creation-Date: 2020-02-05 14:36:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-02-05 15:22+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+
+#: 404.php:7
+msgid "404 Error : Page Not Found"
+msgstr "404 خطأ : لم يتم العثور على الصفحة"
+
+#: 404.php:8
+msgid "The page you are looking for does not exist"
+msgstr "الصفحة التي تبحث عنها غير موجودة"
+
+#: author.php:19
+msgid "Posts count"
+msgstr "عدد المشاركات"
+
+#: author.php:20
+msgid "Comments count"
+msgstr "عدد التعليقات"
+
+#: author.php:49
+msgid "Latest Posts"
+msgstr "احدث المقالات"
+
+#: author.php:85
+msgid "Latest Comments "
+msgstr "آخر التعليقات"
+
+#: comments.php:25
+msgid "comments are disabled"
+msgstr "تم تعطيل التعليقات"
+
+#: functions.php:74
+msgid "Primary"
+msgstr "رئيسي"
+
+#: functions.php:100 functions.php:101
+msgid "Search"
+msgstr "بحث"
+
+#: functions.php:227
+msgid "Standard colors"
+msgstr "الألوان القياسية"
+
+#: includes/widgets.php:29
+msgid "New title"
+msgstr "عنوان جديد"
+
+#: includes/widgets.php:34
+msgid "Title:"
+msgstr "عنوان:"
+
+#: page.php:34 partials/content-home.php:34 partials/content.php:43
+#: single.php:34 template-full-width.php:38
+msgid "0 Comments"
+msgstr "0 تعليق"
+
+#: page.php:34 partials/content-home.php:34 partials/content.php:43
+#: single.php:34 template-full-width.php:38
+msgid "Comment"
+msgstr "تعليق"
+
+#: page.php:34 partials/content-home.php:34 partials/content.php:43
+#: single.php:34 template-full-width.php:38
+msgid "Comments"
+msgstr "تعليقات"
+
+#: page.php:34 partials/content-home.php:34 partials/content.php:43
+#: single.php:34 template-full-width.php:38
+msgid "Comments off"
+msgstr "التعليقات مقفلة"
+
+#: partials/content.php:28 template-full-width.php:68
+msgid "There's no tags"
+msgstr "لا يوجد وسوم"
+
+#: search.php:12
+msgid "Searcing for"
+msgstr "بحث على "
+
+#: single-news.php:60
+msgid "Visit the source for this news"
+msgstr "قم بالاطلاع على المصدر"
+
+#: single.php:100 template-full-width.php:104
+msgid "Related posts"
+msgstr "مقالات ذات صلة"
+
+#: single.php:178 template-full-width.php:170
+msgid "there's no bio"
+msgstr "لا يوجد وصف"
+
+#: single.php:192 template-full-width.php:184
+msgid "Prev: %title"
+msgstr ""
+
+#: single.php:198 template-full-width.php:190
+msgid "Next: %title"
+msgstr ""
+
+#: single.php:200 template-full-width.php:192
+msgid "no next post"
+msgstr ""
+
+#: wp-bootstrap-navwalker.php:331
+msgid "Add a menu"
+msgstr "اضف قائمة"
+
+#. Theme Name of the plugin/theme
+msgid "One Step"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"One Step is theme for simple blog and personal website. developped by Kthiri "
+"Seif Eddine."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kthiri Seif Eddine"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://saifeddin.me/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#: search.php:12
+msgid "%link <i class="fas fa-chevron-right"></i>"
+msgstr "<i class="fas fa-chevron-right"></i>%link"
